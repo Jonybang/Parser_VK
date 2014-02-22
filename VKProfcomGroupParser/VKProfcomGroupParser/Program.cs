@@ -14,9 +14,9 @@ namespace VKProfcomGroupParser
     class Program
     {
         //https://oauth.vk.com/authorize?client_id=4199799&scope=328705&redirect_uri=http://oauth.vk.com/blank.html&display=page&v=5.10&response_type=token
-        static string acces_token = "fd283dad6affe7b423150c233e826554baed8d215b8507d7357caa6bd0fa51f66f7602f1cd9354c7fcff0";
-        //https://oauth.vk.com/access_token?client_id=4199567&client_secret=wRc7uTkO8RqOJfzJn5q1&v=5.10&grant_type=client_credentials
-        static string notifications_acces_token = "c5749af8c5749af8c5e565750dc5348e77cc574c5749af8967145bb9f0194b845e81bbc";
+        static string acces_token = "DELETE";
+        //https://oauth.vk.com/access_token?client_id=4199567&client_secret=DELETE&v=5.10&grant_type=client_credentials
+        static string notifications_acces_token = "DELETE";
 
         static int groupID = -66470865;
 
